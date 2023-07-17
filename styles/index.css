@@ -90,4 +90,17 @@ padding: 50px 0px 0px 0px ;
     text-decoration: underline;
 
 }
+.feature-discription{
+    margin: 40px;
+    padding: 130px; 
+    max-width: 400;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-between; 
+    padding: 130px; 
+
+max-width: 350; 
+text-align: center;
+}
 
